@@ -3,11 +3,10 @@
 
 - 🔭 I’m currently working on **blog-app**
 
-- 🌱 I’m currently learning **next js, React native ,python**
 
-- 📫 How to reach me **sanjay18257@gmail.com**
+- 📫 How to reach me **cseskct216sanjay.s@gmail.com**
 
-- my portfolio website - https://codeatsanjays.netlify.app/
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
